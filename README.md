@@ -1,2 +1,2 @@
 # fancy_dutch
-Pottery and tile printing.
+Pottery and tile printing
